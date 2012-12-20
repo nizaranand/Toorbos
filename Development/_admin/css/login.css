@@ -1,0 +1,155 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+BODY {
+	height: 100%;
+	background-image: url('../images/page-bg.png');
+	background-repeat: repeat-x;
+	color: #9a9999;
+	margin: 0;
+	font-size: 18px;
+	background-color: #5180aa;
+	font-family: Arial;
+}
+
+HTML {
+	width: 100%;
+	height: 100%;
+}
+
+INPUT {
+	background-repeat: no-repeat;
+}
+
+.textInputStyle {
+	border: 0px;
+	background-color: #323232;
+	width: 225px;
+	height: 32px;
+	color: #c9c9c9;
+	padding-left: 5px;
+	padding-right: 5px;
+	font-size: 15px;
+}
+
+A {
+	font-size: 12px;
+	color: #a56a1d;
+}
+
+A:hover {
+	color: #d58824;
+}
+
+.full {
+	width: 100%;
+	clear: both;
+}
+
+.header {
+	width: 815px;
+	height: 156px;
+	margin: 0px auto;
+}
+
+.footer {
+	width: 815px;
+	height: 156px;
+	margin: 0px auto;
+	line-height: 20px;
+	horizontal-align: middle;
+}
+
+.footer .column {
+	width: 28%;
+	margin: 10px;
+	padding: 10px;
+	float: left;
+}
+
+.body {
+	width: 800px;
+	margin: 0px auto;
+}
+
+.leftBox {
+	width: 400px;
+	float: left;
+}
+
+.table {
+	list-style-type: none;
+	display: table;
+	width: 100%;
+	margin: 0px;
+	padding: 0px;
+}
+
+.tableRow {
+	list-style-type: none;
+	display: table-row;
+	margin: 0px;
+	padding: 0px;
+}
+
+.tableCell {
+	list-style-type: none;
+	display: table-cell;
+	margin: 0px;
+	padding: 0px;
+}
+
+.menu {
+	cursor: pointer;
+}
+
+.tooltip {
+	display: none;
+	background: transparent url(../images/black_arrow.png);
+	font-size: 12px;
+	height: 70px;
+	width: 160px;
+	padding: 25px;
+	color: #fff;
+}
+
+input.error {
+	color: red;
+}
+
+div.formError {
+	display: none;
+	color: #FF0000;
+}
+
+label.error {
+	display: block;
+	color: red;
+	font-size: 12px;
+	font-style: italic;
+	font-weight: normal;
+}
+
+.center {
+	width: 371px;
+	height: 458px;
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	margin: -299px auto auto -185px;
+	text-align: center;
+}
+
+.roundedInput {
+	background-image: url('../images/login-input-bg.png');
+	background-repeat: no-repeat;
+	width: 226px;
+	height: 34px;
+	margin: 0 0 1em 0;
+	border: 0px;
+	padding-left: 10px;
+	padding-right: 10px;
+	background-color: transparent;
+}

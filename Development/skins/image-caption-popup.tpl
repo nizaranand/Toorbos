@@ -1,0 +1,2 @@
+<A class=main_MoodsListText href="javascript:MM_openBrWindow('<var:baseURL>popmoods/index_dynamic/containerNameToReplace=Middle/focusModuleID=<var:sys_tree_id>/overideSkinName=image-full.tpl','help','width=350,height=350,top=0,left=300,scrollbars=yes')"><var:prepend><img <loop:attributes><var:output></loop:attributes> border=0 class="image"/><var:append></A><br/>
+		<font class="sub_BodyText"><var:caption></font>

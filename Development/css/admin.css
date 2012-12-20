@@ -1,0 +1,318 @@
+@CHARSET "ISO-8859-1";
+	BODY{
+		width:100%;
+		height:100%;
+		background-color:#dbdbdb;
+		background-image:url(../images/Fiber/bodyBg.gif);
+		background-repeat:repeat-y;
+		background-position:center;
+		margin:0;
+		font-family:Tahoma;
+		font-size: 12px;
+	}
+	HTML{
+		height:100%;
+		width:100%;
+	}
+	H1{
+		font-family:Tahoma;
+		font-weight:bold;
+		font-size:17px;
+		font-style: italic;
+	}
+	H2{
+		font-family:Tahoma;
+		font-weight:bold;
+		font-size:17px;
+		font-style: italic;
+	}
+	.headerBar{
+		width:100%;
+		height:83px;
+		background-image:url(../images/Fiber/headerBar.jpg);
+		background-repeat:repeat-x;
+	}
+	.headerDiv{
+		width:819px;
+		height:83px;
+	}
+	.mainBodyDiv{
+		width:780px;
+		margin: 0px auto;
+		padding:10px;
+	}
+	.topMenuDiv{
+		float:left;
+		padding-left:50px;
+		padding-top:20px;
+	}
+	.topMenuText{
+		font-family:Verdana;
+		font-size:11px;
+		color:#ffffff;
+		text-decoration:none;
+	}
+	.leftFloat{
+		float:left;
+	}
+	.rightFloat{
+		float:right;
+	}
+	.topBodyDiv{
+		width:780px;
+		height:83px;
+		padding-top:7px;
+	}
+	.bodyDiv{
+		width:780px;
+		padding-top:7px;
+	}
+	.boxTopLeft{
+		background-image:url(../images/Fiber/editBoxTopLeft.jpg);
+	}
+	.boxTop{
+		background-image:url(../images/Fiber/editBoxTop.jpg);
+		background-repeat:repeat-x;
+	}
+	.boxTopRight{
+		background-image:url(../images/Fiber/editBoxTopRight.jpg);
+	}
+	.boxLeft{
+		background-image:url(../images/Fiber/editBoxLeft.jpg);
+		background-repeat:repeat-y;
+	}
+	.boxBG{
+		background-color:#c4c4c4
+	}
+	.boxRight{
+		background-image:url(../images/Fiber/editBoxRight.jpg);
+		background-repeat:repeat-y;
+	}
+	.boxBottomLeft{
+		background-image:url(../images/Fiber/editBoxBottomLeft.jpg);
+	}
+	.boxBottom{
+		background-image:url(../images/Fiber/editBoxBottom.jpg);
+		background-repeat:repeat-x;
+	}
+	.boxBottomRight{
+		background-image:url(../images/Fiber/editBoxBottomRight.jpg);
+	}
+	.boxTextDiv{
+		float:left;
+		padding-right:10px;
+		padding-top:9px;
+		padding-bottom:17px;
+	}
+	.boxText{
+		font-family:Tahoma;
+		font-size:14px;
+		color:#1a1a1a;
+		font-style: italic;
+	}
+	.boxInputDiv{
+		float:left;
+		padding-right:10px;
+		padding-top:3px;
+	}
+	.headingText{
+		font-family:Tahoma;
+		font-weight:bold;
+		font-size:17px;
+		font-style: italic;
+	}
+	.buttonLeft{
+		background-image:url(../images/Fiber/button-leftGrey.jpg);
+	}
+	.buttonMiddleGrey{
+		background-image:url(../images/Fiber/button-middleGrey.jpg);
+	}
+	.buttonMiddle{
+		background-image:url(../images/Fiber/button-middle.jpg);
+	}
+	.buttonRight{
+		background-image:url(../images/Fiber/button-rightGrey.jpg);
+	}
+	.buttonText{
+		font-family:Tahoma;
+		font-size:13px;
+		color:#ffffff;
+		font-style: italic;
+	}
+	.paginationText{
+		font-family:Arial;
+		font-size:14px;
+		font-weight:Bold;
+		color:#565656;
+	}
+	.inputBoxStyle{
+		height:25px;
+		background-color:#757575;
+		border:0;
+		font-family:Tahoma;
+		font-size:14px;
+		font-weight:normal;
+		font-style: italic;
+		color:#ffffff;
+		padding-top:5px;
+		padding-left:10px;
+	}
+	.paginationDiv{
+		padding-top: 10px;
+		width:100%;
+		text-align:left;
+	}
+	.horizontalRuleDiv{
+		width:780px;
+		border-bottom:Solid 1px #565656;
+		height:10px;
+	}
+	.bodyLinkText{
+		font-style:Arial;
+		font-size14px;
+		font-weight:bold;
+		text-decoration:none;
+		line-height:27px;
+	}
+	.bodyLinkTextOrange{
+		color:#ff3f14	
+	}
+	.bodyLinkTextBlue{
+		color:#366f88;
+	}
+	.containerText{
+		font-family:Arial;
+		font-weight:bold;
+		font-size:17px;
+		color:#1a1a1a;
+	}
+	.systemText{
+		font-family:Arial;
+		font-size:11px;
+		font-style: italic;
+		color:#936464;
+	}
+	.backLink{
+		font-family: Arial;
+		font-size:12px;
+		color:#ff3f14;
+	}
+	.colorSelector {
+	position: relative;
+	width: 36px;
+	height: 36px;
+	background: url(../images/select.png);
+}
+.colorSelector div {
+	position: absolute;
+	top: 3px;
+	left: 3px;
+	width: 30px;
+	height: 30px;
+	background: url(../images/select.png) center;
+}
+	.adminMenu{
+		width:198px;
+		margin:6px;
+		text-align:left;
+		list-style:none;
+		display:table-cell;
+		height:100%;
+	}
+	
+	.adminMenu UL{
+		background-color:#c9c9c9;
+		list-style-type: none; 
+		margin:0px; 
+		padding:0px;
+	}
+	
+	.adminMenu LI{
+		border-top: 1px white solid; 
+		padding:5px; 
+		color: #1a1a1a;
+		cursor: pointer;
+		padding-left: 10px;
+		font-size: 12px;
+		white-space: nowrap;
+	}
+	
+	.adminMenu LI A{
+		text-decoration:none;
+		color: #1a1a1a;
+	}
+	
+	.adminMenu .active{
+		border-top: 1px white solid; 
+		padding:5px; 
+		padding-left: 10px; 
+		font-size: 12px; 
+		background-color: #fda20d;
+		color: #1a1a1a;
+	}
+		
+	.adminMenu .current{
+		border-top: 1px white solid; 
+		padding:5px; 
+		padding-left: 10px; 
+		font-size: 12px; 
+		background-color: #d33a28;
+		color: #3a6128;
+	}
+	
+	.adminMenu .current A{
+		text-decoration:none;
+		color: white;
+	}
+	
+	.adminMenu .subMenu LI{
+		border-top: none; 
+		padding:5px; 
+		padding-left: 20px; 
+		font-size: 10px; 
+		color: #1a1a1a;
+	}
+	
+		
+	.adminMenu .subMenu A{
+		text-decoration:none;
+		color:#1a1a1a;
+	}
+	
+	.adminMenu .subMenu .active{
+		border-top: none; 
+		padding:5px; 
+		padding-left: 20px; 
+		font-size: 10px;
+		color: #1a1a1a;
+	}
+	
+	.adminMenu .subMenu .current A{
+		text-decoration:none;
+		color: white;
+	}
+	
+	.dataList{
+		margin-top: 10px; 	
+		margin-bottom: 10px;
+	}
+	
+	.dataList TH{
+		padding:10px;
+		border: 1px solid #c9c9c9;
+		background-color: #545454;
+		text-align:left;
+		color:white;
+	}
+	
+	.dataList TD{
+		padding:10px;
+		border: 1px solid #c9c9c9;
+		background-color:white;
+	}
+	
+	.dataList .active{
+		padding:10px;
+		background-color: #e9e9e9;
+		border: 1px solid #c9c9c9;
+	}

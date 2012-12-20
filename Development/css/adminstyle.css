@@ -1,0 +1,154 @@
+@CHARSET "ISO-8859-1";
+	BODY{
+		width: 100%;
+		height: 100%;
+		margin: 0px;
+		background-color: #ffffff;
+	}
+	H1{
+		font-family: Arial;
+		font-size: 24px;
+		color: #cdcdcd;
+		font-style:italic;
+		font-weight:Normal;
+	}
+	H2{
+		font-family: Verdana;
+		font-size: 25px;
+		color: #18a01c;
+		font-weight: Bold;
+	}
+	.widthDiv{
+		width:880px;
+	}
+	.topDiv{
+		width:100%;
+		height:218px;
+		background-color:#303030;
+	}
+	.topRightDiv{
+		float:right;
+		padding-top:37px;
+		text-align:right;
+	}
+	.topMenuDiv{
+		float:left;
+		background-color:#18a01c;
+		height:35px;
+		margin:0px;
+	}
+	.menuTextNormal{
+		float: left;
+		padding-top: 5px;
+		padding-left: 13px;
+		padding-right: 13px;
+		color: #ffffff;
+		font-family: Verdana;
+		font-size: 17px;
+		font-weight: Normal;	
+	}
+	.menuTextSelected{
+		float: left;
+		padding-top: 5px;
+		padding-left: 13px;
+		padding-right: 13px;
+		color: #ffffff;
+		font-family: Verdana;
+		font-size: 17px;
+		font-weight: Bold;
+	}
+	.greenBar{
+		width:100%;
+		height:13px;
+		background-color:#18a01c;
+		margin:0px;
+		z-index:-1;
+	}
+	.leftFloat{
+		float:left;
+	}
+	.bodyText{
+		font-family: Arial;
+		font-size: 18px;
+		color: #8f8f8f;
+		font-weight: Normal;
+	}
+	.footerDiv{
+		position: relative;
+		top: 190px;
+		width: 880px;
+		padding-top: 60px;
+		padding-bottom: 20px;
+	}
+	.footerText{
+		font-family: Verdana;
+		font-size: 12px;
+		font-style: Italic;
+		color: #4b4b4b;
+	}
+	.adminTopBoxDiv{
+		float:left;
+		padding-left:7px;
+	}
+	.adminTopRightDiv{
+		float:right;
+		padding-top:37px;
+		text-align:right;
+	}
+	.adminBreadcrumbsBar{
+		float:left;
+		width:100%;
+		background-color:#ffffff;
+		height:33px;
+		text-align:left;
+		padding-left:14px;
+		padding-top:14px;
+		font-family:Arial;
+		font-size:13px;
+		font-weight:bold;
+		color:#6c6f70;
+	}
+	.adminCustomMenuDiv{
+		width:190px;
+		float:left;
+		padding-top:10px;
+		padding-left:10px;
+		padding-right:10px;
+	}
+	.adminMiddleMainContainerDiv{
+		float:left;
+		width:550px;
+		min-height:79%;
+		margin:0;
+		padding-left:50px;
+	}
+	.adminMiddleContainerDiv{
+		padding-bottom:10px;
+	}
+	.adminLeftMenuLeft{
+		float:left;
+		width:14px;
+		height:14px;
+		background-repeat:no-repeat;
+	}
+	.adminLeftMenuMiddle{
+		float:left;
+		width:140px;
+		height:14px;
+		background-repeat:repeat-x;
+		font-family:Arial;
+		font-weight:normal;
+		font-size:12px;
+		color:#4c4c4c;
+		padding-left:4px
+	}
+	.adminLeftMenuRight{
+		float:left;
+		width:9px;
+		height:14px;
+		background-repeat:no-repeat;
+		z-index:-1;
+	}
+	.adminWidthDiv{
+		width:1000px;
+	}

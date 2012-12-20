@@ -1,0 +1,204 @@
+.tabTitle {
+
+	font-family: Arial, Helvetica, sans-serif;
+
+	font-size: 10px;
+
+	color: #333333;
+
+	text-transform: capitalize;
+
+}
+
+.sectionOptions {
+
+	font-family: Arial, Helvetica, sans-serif;
+
+	font-size: 10px;
+
+	color: #3d3d3d;
+
+	text-decoration: none;
+
+}
+
+.sectionOptions:visited{
+
+	font-family: Arial, Helvetica, sans-serif;
+
+	font-size: 10px;
+
+	color: #3d3d3d;
+
+	text-decoration: none;
+
+}
+.sectionOptions:active{
+
+	font-family: Arial, Helvetica, sans-serif;
+
+	font-size: 10px;
+
+	color: #3d3d3d;
+
+	text-decoration: none;
+
+}
+
+.sectionOptions:hover{
+
+	font-family: Arial, Helvetica, sans-serif;
+
+	font-size: 10px;
+
+	color: #3d3d3d;
+
+	text-decoration: none;
+
+}
+
+.itemName {
+
+	font-family: Arial, Helvetica, sans-serif;
+
+	font-size: 10px;
+
+	color: #333333;
+
+}
+
+.subTitle {
+
+	font-family: Arial, Helvetica, sans-serif;
+
+	font-size: 14px;
+
+	color: #CC6600;
+
+	font-weight: bold;
+
+}
+
+.subDescriptor {
+
+	font-family: Arial, Helvetica, sans-serif;
+
+	font-size: 12px;
+
+	color: #000000;
+
+	font-weight: normal;
+
+}
+
+
+.columnHeading {
+
+	font-family: Arial, Helvetica, sans-serif;
+
+	font-size: 12px;
+
+	color: #7F7F7F;
+
+	font-weight: bold;
+
+}
+
+
+/* form elements */
+
+input, textarea, select {
+
+	font: normal 10px Verdana, Arial, Helvetica, sans-serif;
+
+	border-color: #000000;
+
+}
+
+
+
+input { text-indent: 2px; }
+
+
+
+/* The text input fields background color */
+
+input.post, textarea.post, select {
+
+	background-color: #FFFFFF;
+
+}
+
+
+
+/* Format buttons in post form */
+
+input.button {
+
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+
+	font-size: 11px;
+
+	color: #000000;
+
+	background-color: #FFFFFF;
+
+}
+
+
+
+/* Fancy form styles for IE */
+
+
+
+input, textarea, select {
+
+border-top-width : 0px;
+
+border-right-width : 0px;
+
+border-bottom-width : 0px;
+
+border-left-width : 0px;
+
+}
+
+
+
+input { text-indent : 2px; }
+
+
+
+input.singleField {
+
+border-top-width : 1px;
+
+border-right-width : 1px;
+
+border-bottom-width : 1px;
+
+border-left-width : 1px;
+
+}
+
+
+
+input.button {
+
+border-top-width : 1px;
+
+border-right-width : 1px;
+
+border-bottom-width : 1px;
+
+border-left-width : 1px;
+
+}
+
+
+
+.postbody { line-height: 18px}
+
+
+
+}

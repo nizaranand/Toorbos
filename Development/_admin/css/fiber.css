@@ -1,0 +1,128 @@
+A {
+	color: #ba4e11
+}
+
+table {
+	width: 100%;
+}
+
+A:hover {
+	color: #ec6c21;
+}
+
+.background {
+	background-color: white;
+	overflow: auto;
+	height: auto !important;
+}
+
+.padding {
+	padding: 10px;
+}
+
+.paddingx2 {
+	padding: 20px;
+}
+
+.content {
+	padding-left: 30px;
+	padding-right: 30px;
+}
+
+.command-new {
+	font-size: 10px;
+	color: gray;
+	text-decoration: none;
+}
+
+.command-new:visited {
+	font-size: 10px;
+	color: gray;
+	text-decoration: none;
+}
+
+.centered {
+	width: 842px;
+	margin: 0px auto;
+}
+
+.welcome {
+	color: white;
+	font-size: 12px;
+	font-weight: bold;
+	padding-top: 17px;
+}
+
+.banner {
+	background-image: url(../images/top-bg.jpg);
+	background-repeat: no-repeat;
+	height: 62px;
+	padding-top: 15px;
+	background-repeat: repeat-x;
+}
+
+.banner A {
+	color: white;
+}
+
+.blue {
+	background-color: #5d9fd9;
+}
+
+.menu {
+	color: #b6d0e7;
+	height: 32px;
+	background-image: url(../images/menu-bg.jpg);
+	background-repeat: repeat-x;
+}
+
+.menu A {
+	text-decoration: none;
+	color: #b6d0e7;
+	font-size: 14px;
+	font-weight: bold;
+	display: block;
+	float: left;
+	padding: 7px;
+	margin-right: 10px;
+}
+
+.menu .active {
+	text-decoration: none;
+	color: white;
+	font-size: 14px;
+	font-weight: bold;
+	display: block;
+	float: left;
+	padding: 7px;
+	margin-right: 10px;
+}
+
+.right {
+	float: right;
+}
+
+.left {
+	float: left;
+}
+
+.field-label {
+	clear: both; padding : 5px;
+	margin: 5px;
+	width: 96%;
+	font-weight: bold;
+	padding: 5px;
+}
+
+.field-value {
+	clear: both;
+	padding: 5px;
+	margin: 5px;
+}
+
+.fiber-fileupload-progress{
+	width: 5px;
+	color: blue;
+	height: 20px;
+	display: none;
+}

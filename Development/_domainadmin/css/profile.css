@@ -1,0 +1,32 @@
+.tabTitle {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	color: #333333;
+	text-transform: capitalize;
+}
+.sectionOptions {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	color: #CC6600;
+	text-decoration: none;
+}
+.itemName {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	color: #333333;
+}
+.subTitle {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	color: #CC6600;
+	font-weight: bold;
+}
+.subDescriptor {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #000000;
+	font-weight: normal;
+}
+
+
+}

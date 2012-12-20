@@ -1,0 +1,1 @@
+<loop:pages><a class="H2" href="<var:path>" title="<var:name>"><var:name></a> <span class="H3"><var:breadcrumbsSeperator> </span></loop:pages>

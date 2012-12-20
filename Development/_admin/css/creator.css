@@ -1,0 +1,160 @@
+.creator-header {
+	background-image: url("../images/top-bg.png");
+	background-repeat: repeat-x;
+	width: 100%;
+	height: 41px;
+	position: absolute;
+	top: 0px;
+	left: 0px;
+}
+
+.creator-page-menu {
+	float: right;
+	color: white;
+	background-color: gray;
+	width: 200px;
+}
+
+.creator-commands-panel {
+	position: absolute;
+	display: none;
+	color: white;
+	background-color: #efefef;
+	width: 283px;
+	font-size: 12px;
+	color: #8a8a8a;
+}
+
+.creator-commands-panel DIV.content {
+	padding: 20px;
+	width: 243px;
+	overflow: hidden;
+	display:none;
+}
+
+.creator-commands-panel H3 {
+	font-size: 14px;
+	color: #595959;
+	padding: 15px;
+	border-bottom: 1px solid #595959;
+	line-height: 16px;
+}
+
+.creator-saving-content {
+	float: right;
+	color: white;
+	background-color: #ff6003;
+	display: none;
+}
+
+.wysiwygNic {
+	width: 100%;
+	position: absolute;
+	top: 41px;
+}
+
+.creator-menu {
+	position: absolute;
+	top: 0px;
+	left: 0px;
+	padding: 10px;
+	background-color: #fa5d00;
+	display: none;
+}
+
+.creator-left {
+	float: left;
+}
+
+.padding {
+	padding: 15px;
+}
+
+.padding-small {
+	padding: 5px;
+}
+
+
+div.fixme {
+	width: 100%; /* For all browsers */
+}
+
+body>div.fixme {
+	position: fixed; /* For good browsers */
+}
+
+<!--
+[if gte IE 5.5]> <![if lt IE 7]>div.fixme {
+	/* IE5.5+/Win - this is more specific than the IE 5.0 version */
+	right: auto;
+	bottom: auto;
+	left: expression((         0 -         fixme.offsetWidth +         (     
+		   document.documentElement.clientWidth ?     
+		   document.documentElement.clientWidth :       
+		 document.body.clientWidth) +   
+		     (         ignoreMe2 =         document.documentElement.scrollLeft
+		? 
+		   
+		   document.documentElement.scrollLeft :        
+		document.body.scrollLeft ) ) +   
+		     'px' );
+	top: expression((         0 -         fixme.offsetHeight +         (     
+		   document.documentElement.clientHeight ?     
+		   document.documentElement.clientHeight :      
+		  document.body.clientHeight) +         (         ignoreMe =      
+		  document.documentElement.scrollTop ?     
+		   document.documentElement.scrollTop :        
+		document.body.scrollTop ) ) +     
+		   'px' );
+}
+
+<!
+[endif]> <! [endif]
+-->div.nicEdit-fixme {
+	width: 100%; /* For all browsers */
+}
+
+body>div.nicEdit-fixme {
+	position: fixed; /* For good browsers */
+}
+
+<!--
+[if gte IE 5.5]> <![if lt IE 7]>div.nicEdit-fixme {
+	/* IE5.5+/Win - this is more specific than the IE 5.0 version */
+	right: auto;
+	bottom: auto;
+	left: expression((         0 -         fixme.offsetWidth +         (     
+		   document.documentElement.clientWidth ?     
+		   document.documentElement.clientWidth :       
+		 document.body.clientWidth) +   
+		     (         ignoreMe2 =         document.documentElement.scrollLeft
+		? 
+		   
+		   document.documentElement.scrollLeft :        
+		document.body.scrollLeft ) ) +   
+		     'px' );
+	top: expression((         0 -         fixme.offsetHeight +         (     
+		   document.documentElement.clientHeight ?     
+		   document.documentElement.clientHeight :      
+		  document.body.clientHeight) +         (         ignoreMe =      
+		  document.documentElement.scrollTop ?     
+		   document.documentElement.scrollTop :        
+		document.body.scrollTop ) ) +     
+		   'px' );
+}
+<!
+[
+endif
+]
+>
+<!
+[
+endif
+]
+
+
+
+
+
+
+-->

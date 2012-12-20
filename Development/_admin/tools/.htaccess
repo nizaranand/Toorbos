@@ -1,0 +1,11 @@
+RewriteEngine On
+php_flag session.use_trans_sid off 
+
+<FilesMatch "^index_dynamic$">
+    ForceType application/x-httpd-php
+</FilesMatch>
+
+<FilesMatch "^id$">
+    ForceType application/x-httpd-php
+</FilesMatch>
+

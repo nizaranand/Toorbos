@@ -1,0 +1,1 @@
+<var:prepend><img <loop:attributes><var:output></loop:attributes> class="image"/><var:append><br/><p class=caption><var:caption></p>

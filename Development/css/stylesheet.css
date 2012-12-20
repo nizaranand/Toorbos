@@ -1,0 +1,254 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+BODY {
+	height: 100%;
+	background-position: center;
+	background-repeat: repeat-y;
+	background-image: url('../images/bg.png');
+	color: #707070;
+	margin: 0;
+	background-color: #b7b7b7;
+	font-family: Arial;
+}
+
+HTML {
+	width: 100%;
+	height: 100%;
+}
+
+A {
+	color: #ad1725;
+}
+
+A:visited {
+	color: #92131f;
+}
+
+H1 {
+	font-size: 18px;
+	font-weight: bold;
+	color: #931320;
+	line-height: 32px;
+	margin: 0px;
+	padding: 0px;
+}
+
+H2 {
+	font-size: 14px;
+	font-weight: bold;
+	color: #484848;
+	line-height: 32px;
+	margin: 0px;
+	padding: 0px;
+}
+
+H3 {
+	font-size: 18px;
+	font-weight: bold;
+	color: #931320;
+	line-height: 32px;
+	margin: 0px;
+	padding: 0px;
+}
+
+H4 {
+	font-size: 18px;
+	font-weight: bold;
+	color: #931320;
+	line-height: 32px;
+	margin: 0px;
+	padding: 0px;
+}
+
+H5 {
+	font-size: 18px;
+	font-weight: bold;
+	color: #931320;
+	line-height: 32px;
+	margin: 0px;
+	padding: 0px;
+}
+
+.page {
+	background-color: white;
+	height: 100% auto;
+	width: 925px;
+	margin: 0px auto;
+	border: 1px solid #c9c9c9;
+}
+
+.header {
+	background-color: #ad1725;
+	width: 100%;
+	padding: 0px;
+	margin: 0px;
+}
+
+.headerLayout {
+	list-style-type: none;
+	display: table;
+	width: 815px;
+	margin: 0px auto;
+	padding: 0px;
+}
+
+.bodyLayout {
+	list-style-type: none;
+	display: table;
+	width: 925px;
+	background-color: white;
+}
+
+.headerLayout ol {
+	display: table-row;
+	list-style-type: none;
+	padding: 0px;
+}
+
+.headerLayout ol li {
+	display: table-cell;
+	list-style-type: none;
+	padding: 0px;
+}
+
+.bodyLayout ol {
+	display: table-row;
+	list-style-type: none;
+	width: 100%;
+}
+
+.bodyLayout ol li {
+	display: table-cell;
+	list-style-type: none;
+	padding: 0px;
+}
+
+.right {
+	display: table-cell;
+	height: 209px;
+	padding: 0px;
+	margin: 0px;
+}
+
+.rightLayout {
+	list-style-type: none;
+	display: table;
+}
+
+.rightLayout ol {
+	display: table-row;
+	list-style-type: none;
+	width: 100%;
+	padding: 0px;
+	margin: 0px;
+}
+
+.rightLayout .topMenuContainer {
+	display: table-cell;
+	list-style-type: none;
+	width: 100%;
+	padding: 0px;
+}
+
+.menuBg {
+	list-style-type: none;
+	width: 589px;
+	padding: 0px;
+	background-color: #92131f;
+}
+
+.slogan {
+	display: table-cell;
+	height: 110px;
+	margin: 0px;
+	padding: 0px;
+}
+
+.menuBottom {
+	display: table-cell;
+	height: 67px;
+	margin: 0px;
+	padding: 0px;
+}
+
+.logo {
+	display: table-cell;
+	vertical-align: top;
+	padding: 10px;
+}
+
+.body {
+	width: 752px;
+	font-size: 12px;
+	vertical-align: top;
+	line-height: 25px;
+	margin: 0px auto;
+	padding: 30px;
+	padding-top: 30px;
+	min-height: 68%;
+}
+
+.topMenu {
+	background-color: #92131f;
+	list-style-type: none;
+	height: 31px;
+	margin: 0px;
+	padding: 0px;
+	width: 589px;
+}
+
+.topMenu A {
+	color: #c2c2c2;
+	padding: 7px;
+	margin: 0px;
+	padding-left: 10px;
+	padding-right: 10px;
+	text-decoration: none;
+	cursor: pointer;
+	text-align: left;
+	font-size: 14px;
+	font-weight: bold;
+	display: block;
+	white-space: nowrap;
+	border-right: 1px #6e6f73 solid;
+}
+
+.topMenu .active {
+	background-color: #ad1725;
+	color: #ffffff;
+	padding: 7px;
+	padding-left: 10px;
+	padding-right: 10px;
+	text-decoration: none;
+	cursor: pointer;
+	text-align: left;
+	font-size: 14px;
+	font-weight: bold;
+	display: block;
+	margin: 0px;
+}
+
+.topMenu .current {
+	background-color: #ad1725;
+	color: #ffffff;
+	padding: 7px;
+	padding-left: 10px;
+	padding-right: 10px;
+	text-decoration: none;
+	cursor: pointer;
+	text-align: left;
+	font-size: 14px;
+	font-weight: bold;
+	display: block;
+	margin: 0px;
+}
+
+.footer {
+	text-align: center;
+	padding-top: 10px;
+	border-top: 1px solid #c9c9c9;
+	clear: both;
+}

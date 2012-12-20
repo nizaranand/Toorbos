@@ -1,0 +1,1 @@
+<loop:pages><div class="childMenuLeft" onMouseOver="Javascript: this.className='childMenuLeftSelected'; this.style.cursor='hand';" onMouseOut="Javascript: this.className='childMenuLeft';" onClick="Javascript: document.location.href='<var:path>';"><var:name></div></loop:pages>

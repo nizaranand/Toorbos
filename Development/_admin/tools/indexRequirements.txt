@@ -1,0 +1,7 @@
+ - Lists must have the dynamic page link in it...
+ - Random must have the dynamic page link in it...
+ - site name must be = to domain name
+ - site must have indexSite to "on"
+ - add line to crontab to check for sites to index
+ - module must have defailt skins assigned
+ 

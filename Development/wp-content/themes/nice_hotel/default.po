@@ -1,0 +1,665 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Nice Hotel\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-08-07 22:05+0800\n"
+"PO-Revision-Date: 2012-08-07 22:05+0800\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-Country: UNITED STATES\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:17
+msgid "Page Not Found"
+msgstr ""
+
+#: 404.php:21
+msgid "Oops! looks like you clicked on a broken link."
+msgstr ""
+
+#: 404.php:21
+msgid "Go home?</a>"
+msgstr ""
+
+#: archive.php:5
+#, php-format
+msgid "All posts in: \"%s\""
+msgstr ""
+
+#: archive.php:9
+#, php-format
+msgid "All posts tagged: \"%s\""
+msgstr ""
+
+#: archive.php:13
+#, php-format
+msgid "All posts by: \"%s\""
+msgstr ""
+
+#: archive.php:17
+#, php-format
+msgid "Daily Archives: <span>%s</span>"
+msgstr ""
+
+#: archive.php:21
+#, php-format
+msgid "Monthly Archives: <span>%s</span>"
+msgstr ""
+
+#: archive.php:25
+#, php-format
+msgid "Yearly Archives: <span>%s</span>"
+msgstr ""
+
+#: archive.php:28
+msgid "Archives"
+msgstr ""
+
+#: comments.php:12
+msgid "No comments"
+msgstr ""
+
+#: comments.php:12
+msgid "1 Comment"
+msgstr ""
+
+#: comments.php:12
+msgid "% Comments"
+msgstr ""
+
+#: comments.php:20
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: comments.php:21
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: comments.php:40
+msgid "Comment"
+msgstr ""
+
+#: comments.php:46
+#, php-format
+msgid "Logged in as <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Log out of this account\">Log out?</a>"
+msgstr ""
+
+#: comments.php:48
+#: comments.php:50
+msgid "Leave a Comment"
+msgstr ""
+
+#: comments.php:52
+msgid "Cancel Reply To Comment"
+msgstr ""
+
+#: comments.php:54
+msgid "Submit Comment"
+msgstr ""
+
+#: comments.php:60
+msgid "Name"
+msgstr ""
+
+#: comments.php:60
+#: comments.php:62
+msgid "required"
+msgstr ""
+
+#: comments.php:62
+msgid "Email"
+msgstr ""
+
+#: comments.php:64
+msgid "Website"
+msgstr ""
+
+#: footer.php:32
+msgid "&copy; Copyright 2012"
+msgstr ""
+
+#: functions.php:42
+#: functions.php:165
+msgid "Primary Navigation"
+msgstr ""
+
+#: functions.php:67
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: functions.php:70
+#, php-format
+msgid "%s"
+msgstr ""
+
+#: functions.php:73
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: functions.php:81
+msgid "(Edit)"
+msgstr ""
+
+#: functions.php:108
+msgid "Primary Widget Area"
+msgstr ""
+
+#: functions.php:110
+msgid "The primary widget area"
+msgstr ""
+
+#: functions.php:119
+msgid "Footer Widget Area One"
+msgstr ""
+
+#: functions.php:121
+msgid "Footer widget area one"
+msgstr ""
+
+#: functions.php:130
+msgid "Footer Widget Area Two"
+msgstr ""
+
+#: functions.php:132
+msgid "Footer widget area two"
+msgstr ""
+
+#: functions.php:141
+msgid "Footer Widget Area Three"
+msgstr ""
+
+#: functions.php:143
+msgid "Footer widget area three"
+msgstr ""
+
+#: functions.php:166
+msgid "Secondary Navigation"
+msgstr ""
+
+#: functions.php:167
+msgid "Footer Navigation"
+msgstr ""
+
+#: functions.php:332
+msgid "Please select a room"
+msgstr ""
+
+#: functions.php:333
+msgid "Please select a \"Arrival\" date"
+msgstr ""
+
+#: functions.php:334
+msgid "Please select a \"Departure\" date"
+msgstr ""
+
+#: functions.php:335
+msgid "The \"Arrival\" and \"Departure\" dates cannot match one another"
+msgstr ""
+
+#: functions.php:336
+msgid "The \"Departure\" date cannot be before the \"Arrival\" date"
+msgstr ""
+
+#: functions.php:593
+msgid "Details"
+msgstr ""
+
+#: functions.php:597
+msgid "Read More"
+msgstr ""
+
+#: functions.php:602
+msgid " class=\"button2\">"
+msgstr ""
+
+#: functions.php:626
+#, php-format
+msgid "Search results for %s"
+msgstr ""
+
+#: functions.php:628
+#: functions.php:640
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: functions.php:728
+msgid "Home"
+msgstr ""
+
+#: functions.php:773
+msgid "This post is password protected. To view it please enter your password below"
+msgstr ""
+
+#: functions.php:774
+msgid "Password"
+msgstr ""
+
+#: header.php:96
+#: single-accommodation.php:132
+msgid "Book Now"
+msgstr ""
+
+#: single-accommodation.php:98
+msgid "Previous"
+msgstr ""
+
+#: single-accommodation.php:99
+msgid "Next"
+msgstr ""
+
+#: single-accommodation.php:109
+msgid "Room Description"
+msgstr ""
+
+#: single-accommodation.php:124
+msgid "From"
+msgstr ""
+
+#: single-accommodation.php:125
+msgid "To"
+msgstr ""
+
+#: single-accommodation.php:146
+msgid "Room Facilities"
+msgstr ""
+
+#: single-events.php:37
+msgid "No time set"
+msgstr ""
+
+#: single-events.php:42
+msgid "No location set"
+msgstr ""
+
+#: single-events.php:63
+msgid "Time"
+msgstr ""
+
+#: single-events.php:64
+msgid "Location"
+msgstr ""
+
+#: template-accommodation.php:122
+msgid "No Accommodation has been added yet"
+msgstr ""
+
+#: template-blog.php:45
+msgid "Posted "
+msgstr ""
+
+#: template-blog.php:47
+msgid " | Tags: "
+msgstr ""
+
+#: template-blog.php:53
+msgid "0"
+msgstr ""
+
+#: template-blog.php:54
+msgid "1"
+msgstr ""
+
+#: template-blog.php:55
+msgid "%"
+msgstr ""
+
+#: template-blog.php:57
+msgid "<span class=\"comments-off\">Off</span>"
+msgstr ""
+
+#: template-blog.php:85
+msgid "No blog posts have been added yet"
+msgstr ""
+
+#: template-booking.php:29
+msgid "Room Type is a required field"
+msgstr ""
+
+#: template-booking.php:34
+msgid "Date From is a required field"
+msgstr ""
+
+#: template-booking.php:39
+msgid "Date To is a required field"
+msgstr ""
+
+#: template-booking.php:44
+msgid "Full Name is a required field"
+msgstr ""
+
+#: template-booking.php:49
+msgid "Number of People is a required field"
+msgstr ""
+
+#: template-booking.php:54
+msgid "Email Address is a required field"
+msgstr ""
+
+#: template-booking.php:109
+msgid " Booking Form"
+msgstr ""
+
+#: template-booking.php:111
+#: template-booking.php:197
+msgid "Room Type"
+msgstr ""
+
+#: template-booking.php:112
+#: template-booking.php:201
+msgid "Date"
+msgstr ""
+
+#: template-booking.php:113
+msgid "Guest Name"
+msgstr ""
+
+#: template-booking.php:114
+#: template-booking.php:209
+#: template-booking.php:262
+msgid "Number of People"
+msgstr ""
+
+#: template-booking.php:116
+msgid "Phone"
+msgstr ""
+
+#: template-booking.php:117
+msgid "Price Quoted"
+msgstr ""
+
+#: template-booking.php:118
+#: template-booking.php:221
+msgid "Special Requirements"
+msgstr ""
+
+#: template-booking.php:119
+#: template-contact.php:72
+msgid "IP Address"
+msgstr ""
+
+#: template-booking.php:164
+msgid "Booking Successful! Nice Hotel will reply within 24 hours"
+msgstr ""
+
+#: template-booking.php:191
+msgid "Booking Option"
+msgstr ""
+
+#: template-booking.php:192
+msgid "Selection"
+msgstr ""
+
+#: template-booking.php:202
+msgid "Nights"
+msgstr ""
+
+#: template-booking.php:213
+#: template-booking.php:268
+msgid "Email Address"
+msgstr ""
+
+#: template-booking.php:217
+#: template-booking.php:274
+msgid "Phone Number"
+msgstr ""
+
+#: template-booking.php:225
+msgid "Total Cost"
+msgstr ""
+
+#: template-booking.php:256
+msgid "Full Name"
+msgstr ""
+
+#: template-contact.php:24
+msgid "Name is a required field"
+msgstr ""
+
+#: template-contact.php:33
+msgid "Email is a required field"
+msgstr ""
+
+#: template-contact.php:38
+msgid "Invalid email address"
+msgstr ""
+
+#: template-contact.php:47
+msgid "Message is a required field"
+msgstr ""
+
+#: template-contact.php:71
+msgid " Contact Form"
+msgstr ""
+
+#: template-contact.php:211
+msgid "Email sent, thank you for contacting us"
+msgstr ""
+
+#: template-contact.php:216
+msgid "Send Us An Email"
+msgstr ""
+
+#: template-contact.php:235
+msgid "Message"
+msgstr ""
+
+#: template-contact.php:242
+msgid "Send Email"
+msgstr ""
+
+#: template-events.php:96
+msgid "No events have been added yet"
+msgstr ""
+
+#: template-gallery.php:101
+msgid "No photos have been added yet"
+msgstr ""
+
+#: template-homepage.php:81
+msgid "Select a Room..."
+msgstr ""
+
+#: template-testimonials.php:75
+msgid "No testimonials have been added yet"
+msgstr ""
+
+#: admin/classes/class.options_machine.php:455
+msgid "Last Backup : "
+msgstr ""
+
+#: admin/classes/class.options_machine.php:515
+msgid "Upload"
+msgstr ""
+
+#: admin/front-end/options.php:43
+#: admin/front-end/options.php:67
+msgid "Save All Changes"
+msgstr ""
+
+#: admin/front-end/options.php:68
+msgid "Options Reset"
+msgstr ""
+
+#: admin/functions/functions.mediauploader.php:20
+msgid "Options"
+msgstr ""
+
+#: admin/functions/functions.mediauploader.php:210
+msgid "Gallery"
+msgstr ""
+
+#: admin/functions/functions.mediauploader.php:210
+msgid "Previously Uploaded"
+msgstr ""
+
+#: functions/accommodation_meta.php:8
+#: functions/accommodation_meta.php:9
+msgid "Accommodation"
+msgstr ""
+
+#: functions/accommodation_meta.php:10
+#: functions/events_meta.php:10
+#: functions/gallery_meta.php:10
+#: functions/slides_meta.php:10
+#: functions/testimonial_meta.php:10
+msgid "Add New"
+msgstr ""
+
+#: functions/accommodation_meta.php:11
+msgid "Add New Accommodation"
+msgstr ""
+
+#: functions/events_meta.php:8
+msgid "Events"
+msgstr ""
+
+#: functions/events_meta.php:9
+msgid "Event"
+msgstr ""
+
+#: functions/events_meta.php:11
+msgid "Add New Event"
+msgstr ""
+
+#: functions/gallery_meta.php:8
+msgid "Photo Galleries"
+msgstr ""
+
+#: functions/gallery_meta.php:9
+msgid "Photo Gallery"
+msgstr ""
+
+#: functions/gallery_meta.php:11
+msgid "Add New Photo Gallery"
+msgstr ""
+
+#: functions/slides_meta.php:8
+#: functions/slides_meta.php:9
+msgid "Slideshow"
+msgstr ""
+
+#: functions/slides_meta.php:11
+msgid "Add New Slideshow"
+msgstr ""
+
+#: functions/testimonial_meta.php:8
+msgid "Testimonials"
+msgstr ""
+
+#: functions/testimonial_meta.php:9
+msgid "Testimonial"
+msgstr ""
+
+#: functions/testimonial_meta.php:11
+msgid "Add New Testimonial"
+msgstr ""
+
+#: functions/widgets/widget-booking.php:12
+msgid "Display Booking Form"
+msgstr ""
+
+#: functions/widgets/widget-booking.php:14
+msgid "Custom Booking Widget"
+msgstr ""
+
+#: functions/widgets/widget-booking.php:131
+#: functions/widgets/widget-flickr.php:75
+#: functions/widgets/widget-recent-posts.php:113
+#: functions/widgets/widget-tags.php:72
+msgid "Title:"
+msgstr ""
+
+#: functions/widgets/widget-flickr.php:12
+msgid "Display Your Flickr Photos"
+msgstr ""
+
+#: functions/widgets/widget-flickr.php:14
+msgid "Custom Flickr Widget"
+msgstr ""
+
+#: functions/widgets/widget-flickr.php:39
+msgid "View All"
+msgstr ""
+
+#: functions/widgets/widget-flickr.php:80
+msgid "Flickr ID:"
+msgstr ""
+
+#: functions/widgets/widget-flickr.php:85
+msgid "How Many Photos:"
+msgstr ""
+
+#: functions/widgets/widget-flickr.php:94
+msgid "flickr_type (user or group):"
+msgstr ""
+
+#: functions/widgets/widget-recent-posts.php:12
+msgid "Display Recent Posts"
+msgstr ""
+
+#: functions/widgets/widget-recent-posts.php:14
+msgid "Custom Recent Posts Widget"
+msgstr ""
+
+#: functions/widgets/widget-recent-posts.php:75
+msgid "Posted"
+msgstr ""
+
+#: functions/widgets/widget-recent-posts.php:75
+msgid "By"
+msgstr ""
+
+#: functions/widgets/widget-recent-posts.php:118
+msgid "Post Limit:"
+msgstr ""
+
+#: functions/widgets/widget-tags.php:12
+msgid "Display Tags"
+msgstr ""
+
+#: functions/widgets/widget-tags.php:14
+msgid "Custom Tags Widget"
+msgstr ""
+
+#: includes/loop.php:14
+msgid "Pages"
+msgstr ""
+
+#: includes/loop.php:117
+msgid "Search"
+msgstr ""
+
+#: includes/loop.php:124
+#: includes/loop.php:232
+#: includes/loop.php:304
+msgid "Blog"
+msgstr ""
+
+#: includes/loop.php:143
+#: includes/loop.php:169
+#: includes/loop.php:195
+#: includes/loop.php:221
+#: includes/loop.php:236
+#: includes/loop.php:245
+#: includes/loop.php:254
+#: includes/loop.php:263
+#: includes/loop.php:286
+msgid "No results were found."
+msgstr ""
+
+#: includes/pagination.php:23
+msgid "&larr; Older posts"
+msgstr ""
+
+#: includes/pagination.php:24
+msgid "Newer posts &rarr;"
+msgstr ""
+
